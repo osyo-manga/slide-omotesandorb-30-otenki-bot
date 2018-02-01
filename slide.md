@@ -214,9 +214,9 @@ LOG_LEVEL                  - Use Ruboty logger. If LOG_LEVEL=0, output debug log
 ## 注意点
 - - -
 
-* LINE の Bot API は 2016年4月頃にトライアル版として公開された
-* その後、2016年10月頃に LINE Message API が正式版としてリリースされた
-* トライアル版と正式版では微妙に仕様が違うのでネットの記事などを参照する場合は注意する
+* LINE の Bot API は 2016年4月頃にトライアル版として公開された   <!-- .element: class="fragment" -->
+* その後、2016年10月頃に LINE Message API が正式版としてリリースされた   <!-- .element: class="fragment" -->
+* トライアル版と正式版では微妙に仕様が違うのでネットの記事などを参照する場合は注意する   <!-- .element: class="fragment" -->
 
 ---
 

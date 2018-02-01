@@ -302,12 +302,12 @@ pp result
 ## OpenWeatherMap に渡す地名
 - - -
 
-* 地名はローマ字にする必要がある
-* Bot に対しての発言は日本語なのでそれをローマ字に変換する必要があるが…
+* 地名はローマ字にする必要がある   <!-- .element: class="fragment" -->
+* Bot に対しての発言は日本語なのでそれをローマ字に変換する必要があるが…   <!-- .element: class="fragment" -->
   * 新宿 → shinhuku
   * 八王子 → hachioji(hachiouji ではない)
-* 表参道(omotesando)など検知しない地名もある…
-* つらたん…
+* 表参道(omotesando)など検知しない地名もある…   <!-- .element: class="fragment" -->
+* つらたん…   <!-- .element: class="fragment" -->
 
 ---
 

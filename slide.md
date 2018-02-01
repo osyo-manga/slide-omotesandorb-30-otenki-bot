@@ -45,6 +45,7 @@
 ---
 
 ## 今回利用するもの
+- - -
 
 * LINE Message API
   * LINE が提供している Bot で利用できる API

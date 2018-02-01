@@ -411,8 +411,8 @@ $ bundle exec ruboty -l line.rb
 0. 発言内容から『地名』と『日時』をパース     <!-- .element: class="fragment" -->
 0. Google Maps API で『地名』から『座標』を取得     <!-- .element: class="fragment" -->
 0. 取得した『座標』で OpenWeatherMap から数日間の天気の情報を取得     <!-- .element: class="fragment" -->
-0. そこから指定された『日時』の天気を取得する     <!-- .element: class="fragment" -->
-0. Messaging API 経由で Bot にいい感じで返信する     <!-- .element: class="fragment" -->
+0. そこから指定された『日時』の天気を取得     <!-- .element: class="fragment" -->
+0. Messaging API 経由で Bot にいい感じで返信     <!-- .element: class="fragment" -->
 
 ---
 
